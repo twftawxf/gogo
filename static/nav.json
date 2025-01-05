@@ -11,7 +11,7 @@
 		"name": "抖音视频",
 		"href": "https://www.douyin.com/",
 		"desc": "抖音-记录美好生活",
-		"logo": "static/icons/ddouying.ico"
+		"logo": "static/icons/douying.ico"
 	}, {
 		"name": "大眼仔旭",
 		"href": "http://www.dayanzai.me/",
@@ -258,10 +258,10 @@
 	"classify": "网络工具",
 	"icon": "ti-rocket",
 	"sites": [{
-		"name": "wxpusher",
-		"href": "http://wxpusher.zjiecode.com",
-		"desc": "最简单的get/post方式将消息推送给微信，可配合双卡助手使用",
-		"logo": "no-logo"
+		"name": "炫酷抽奖",
+		"href": "https://html5.44886.com/log-lottery/#/log-lottery/home",
+		"desc": "最炫酷抽奖页面，谁是幸运儿？",
+		"logo": "http://chuangzaoshi.com/assets/images/D/weavesilk.png"
 	}, {
 		"name": "server酱",
 		"href": "https://sc.ftqq.com/3.version",
