@@ -13,19 +13,19 @@
 		"desc": "抖音-记录美好生活",
 		"logo": "static/icons/douying.ico"
 	}, {
-		"name": "大眼仔旭",
-		"href": "http://www.dayanzai.me/",
-		"desc": "绿软、汉化软件分享",
+		"name": "Cloud Flare",
+		"href": "https://www.cloudflare-cn.com/",
+		"desc": "让全球连通云为你服务！",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
-		"name": "520解说",
-		"href": "https://www.youtube.com/@LRH520",
-		"desc": "软件分享",
+		"name": "百度一下",
+		"href": "https://www.baidu.com/",
+		"desc": "百度一下，你就知道！",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
-		"name": "殁漂遥",
-		"href": "https://www.mpyit.com/",
-		"desc": "分类齐全，不定时修改下载地址获取方式",
+		"name": "哔哩哔哩",
+		"href": "https://www.bilibili.com/",
+		"desc": "哔哩哔哩，干杯!",
 		"logo": "static/icons/mpyit.com.ico"
 	}, {
 		"name": "胡萝卜周",
@@ -410,12 +410,17 @@
 	}]
 }, {
 	"_id": "blog",
-	"classify": "优秀博客",
+	"classify": "优秀博客分享",
 	"icon": "ti-medall-alt",
 	"sites": [{
 		"name": "Rat's Blog ",
 		"href": "https://www.moerats.com/",
 		"desc": "KMS、VPS、Aria2相关主机与建站技术分享",
 		"logo": "https://www.moerats.com/usr/picture/favicon.ico"
+        }, {
+		"name": "꧁符号大师꧂",
+		"href": "https://bbs.fchkkk.us.kg/",
+		"desc": "个人网页导航页面！",
+		"logo": "static/icons/bigjpg.com.ico"		
 	}]
 }]
