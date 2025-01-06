@@ -16,17 +16,17 @@
 		"name": "Cloud Flare",
 		"href": "https://www.cloudflare-cn.com/",
 		"desc": "让全球连通云为你服务！",
-		"logo": "static/icons/dayanzai.me.ico"
+		"logo": "static/icons/cf.ico"
 	}, {
 		"name": "百度一下",
 		"href": "https://www.baidu.com/",
 		"desc": "百度一下，你就知道！",
-		"logo": "static/icons/dayanzai.me.ico"
+		"logo": "static/icons/baidu.ico"
 	}, {
 		"name": "哔哩哔哩",
 		"href": "https://www.bilibili.com/",
 		"desc": "哔哩哔哩，干杯!",
-		"logo": "static/icons/mpyit.com.ico"
+		"logo": "static/icons/bili.ico"
 	}, {
 		"name": "胡萝卜周",
 		"href": "http://www.carrotchou.blog/",
